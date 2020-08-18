@@ -1,2 +1,2 @@
 # SlackLogger
-An API service to log event in the Slack paltform
+An API service to log event in the Slack platform
